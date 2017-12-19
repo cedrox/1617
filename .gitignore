@@ -68,3 +68,4 @@ jspm_packages
 .suo
 VSWorkspaceState.json
 applicationhost.config
+App_Data
